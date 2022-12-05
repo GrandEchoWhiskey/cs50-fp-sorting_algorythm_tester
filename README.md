@@ -22,3 +22,12 @@ Use below to run your algorythm:
 ```
 python project.py random 1000 your_module_name
 ```
+
+#### Files:
+- project.py - main project file - includes the sorting modules, and connects them with the user interface.
+- test_project.py - project unittests - tests the functions of project.py
+- quicksort.py - sorting module - quick sort module
+- mergesort.py - sorting module - merge sort module
+- shellsort.py - sorting module - shell sort module
+- heapsort.py - sorting module - heap sort module
+- bubblesort.py - sorting module - bubble sort module

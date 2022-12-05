@@ -36,7 +36,7 @@ class sorting:
     def list(self): return self.__lst
 
 def usage_note_exit():
-    raise SystemExit("Usage: python project.py <sorted, reversed, random> length *algorythms.")
+    raise SystemExit("Usage: python project.py <sorted, reversed, random> length [*alogythms | all].")
 
 def algorythm_modules(lst):
     algos = set()
